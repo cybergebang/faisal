@@ -2,7 +2,7 @@
 
 # Youtube : SIPPITT JR
 
-# Github  : https://github.com/B4N954N2-ID
+# Github  : https://github.com/cybergebang-faisal
 
 # Mau recode ya? Izin dulu slur
 
